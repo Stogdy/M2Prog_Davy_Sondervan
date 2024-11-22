@@ -2,9 +2,19 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)//Return
         {
-            Console.WriteLine("Hello, World!");
+            Program program = new Program();//New program
+            program.Run(); //Run
+
+
+        }
+        internal void Run()
+        {
+            Console.WriteLine("Dit is nu de start van mijn programma");
+
+
         }
     }
 }
+
