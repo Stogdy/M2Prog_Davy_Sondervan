@@ -1,0 +1,5 @@
+C:\Users\stogd\Documents\GitHub\M2Prog_Davy_Sondervan\02 Classes\02 Classes\02 Classes\obj\Debug\net8.0\02 Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stogd\Documents\GitHub\M2Prog_Davy_Sondervan\02 Classes\02 Classes\02 Classes\obj\Debug\net8.0\02 Classes.AssemblyInfoInputs.cache
+C:\Users\stogd\Documents\GitHub\M2Prog_Davy_Sondervan\02 Classes\02 Classes\02 Classes\obj\Debug\net8.0\02 Classes.AssemblyInfo.cs
+C:\Users\stogd\Documents\GitHub\M2Prog_Davy_Sondervan\02 Classes\02 Classes\02 Classes\obj\Debug\net8.0\02 Classes.csproj.CoreCompileInputs.cache
+C:\Users\stogd\Documents\GitHub\M2Prog_Davy_Sondervan\02 Classes\02 Classes\02 Classes\obj\Debug\net8.0\02 Classes.sourcelink.json
