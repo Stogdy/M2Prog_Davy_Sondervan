@@ -1,0 +1,15 @@
+[
+    {
+        "Name": "John",
+        "Level": 5,
+        "MaxHp": 100,
+        "Hp": 75
+    },
+    {
+        "Name": "Sarah",
+        "Level": 10,
+        "MaxHp": 150,
+        "Hp": 130
+    }
+]
+

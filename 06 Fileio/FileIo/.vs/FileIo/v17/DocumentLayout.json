@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stogd\\source\\repos\\FileIo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5A9D6-714C-4BEA-861F-BCB2DA80F453}|FileIo\\FileIo.csproj|c:\\users\\stogd\\source\\repos\\fileio\\fileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5A9D6-714C-4BEA-861F-BCB2DA80F453}|FileIo\\FileIo.csproj|solutionrelative:fileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5A9D6-714C-4BEA-861F-BCB2DA80F453}|FileIo\\FileIo.csproj|c:\\users\\stogd\\source\\repos\\fileio\\fileio\\quiz.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D4E5A9D6-714C-4BEA-861F-BCB2DA80F453}|FileIo\\FileIo.csproj|solutionrelative:fileio\\quiz.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quiz.txt",
+              "DocumentMoniker": "C:\\Users\\stogd\\source\\repos\\FileIo\\FileIo\\Quiz.txt",
+              "RelativeDocumentMoniker": "FileIo\\Quiz.txt",
+              "ToolTip": "C:\\Users\\stogd\\source\\repos\\FileIo\\FileIo\\Quiz.txt",
+              "RelativeToolTip": "FileIo\\Quiz.txt",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAwAQBAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-31T11:28:39.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stogd\\source\\repos\\FileIo\\FileIo\\Program.cs",
+              "RelativeDocumentMoniker": "FileIo\\Program.cs",
+              "ToolTip": "C:\\Users\\stogd\\source\\repos\\FileIo\\FileIo\\Program.cs",
+              "RelativeToolTip": "FileIo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:25:33.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
